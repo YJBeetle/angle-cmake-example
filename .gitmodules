@@ -1,0 +1,3 @@
+[submodule "3rdParty/angle-cmake"]
+	path = 3rdParty/angle-cmake
+	url = https://github.com/YJBeetle/angle-cmake.git
